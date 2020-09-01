@@ -1,0 +1,8 @@
+{
+  "parent": "mod:custom/block_cable",
+  "textures": {
+    "all": "mod:blocks/crusher_side",
+    "particle": "mod:blocks/crusher_side",
+    "missing": "mod:blocks/"
+  }
+}

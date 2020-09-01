@@ -1,0 +1,95 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ModTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mod_tab"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ingot"
+    },
+    {
+      "name": "CoalDust",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_dust"
+    },
+    {
+      "name": "Crusher",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusher"
+    },
+    {
+      "name": "CrusherGui",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusher_gui"
+    },
+    {
+      "name": "BlockCable",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cable"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabmod_tab": "Mod Tab",
+      "block.mod.crusher": "Crusher",
+      "item.mod.coal_dust": "Coal Dust",
+      "block.mod.block_cable": "Block Cable",
+      "item.mod.steel_ingot": "Steel Ingot"
+    },
+    "pt_br": {
+      "itemGroup.tabmod_tab": "Mod Tab",
+      "block.mod.crusher": "Crusher",
+      "item.mod.coal_dust": "Pó de Carvão",
+      "block.mod.block_cable": "Block Cable",
+      "item.mod.steel_ingot": "Barra de aço"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mod",
+    "modName": "Mod",
+    "version": "1.0.0",
+    "author": "opbes, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
