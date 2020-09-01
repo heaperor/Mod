@@ -45,15 +45,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crusher_gui"
-    },
-    {
-      "name": "BlockCable",
-      "type": "block",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "block_cable"
     }
   ],
   "variable_elements": [],
@@ -63,14 +54,12 @@
       "itemGroup.tabmod_tab": "Mod Tab",
       "block.mod.crusher": "Crusher",
       "item.mod.coal_dust": "Coal Dust",
-      "block.mod.block_cable": "Block Cable",
       "item.mod.steel_ingot": "Steel Ingot"
     },
     "pt_br": {
       "itemGroup.tabmod_tab": "Mod Tab",
       "block.mod.crusher": "Crusher",
       "item.mod.coal_dust": "Pó de Carvão",
-      "block.mod.block_cable": "Block Cable",
       "item.mod.steel_ingot": "Barra de aço"
     }
   },
